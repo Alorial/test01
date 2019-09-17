@@ -1,1 +1,2 @@
-print('Winter is coming')
+print('Winter is coming now')
+print('Snowflakes')
